@@ -1,0 +1,13 @@
+# conda create --name csci_kaggle python==3.7.10
+# conda activate csci_kaggle
+# pip install -r requirements.txt
+
+pandas
+numpy
+matplotlib
+sklearn
+seaborn
+kaggle
+
+# submission command
+# kaggle competitions submit -c h-and-m-personalized-fashion-recommendations -f [FILE] -m [MESSAGE]
